@@ -1,8 +1,8 @@
 # Welcome in my Github world !
 
 ## About Me
-👋 Hi ! I'm **Mélodie**!<br><br> 📁 Here you can find some diversed projects I have been working on.<br> **Transformers** are a big part of my studies, the **Computational cost** of it all as well.<br>
-<br>I am passionate on how we develop Deep Learning from Human's input to outperfom us in some use cases.<br>I believe in this amazing tool, that is IA.<br><br> If you aim at a **Substainable AI** for **Industry 5.0**, let's meet!<br><br> 🌎 I have learned IA and computer science across the world .<br>From France, to South Korea and, now Canada.<br><br> 👩‍🎓 I have a master in AI Engineering (ESME school, France).<br>I'm currently mastering Intelligent Systems for Automated Production (ETS, Canada).<br>
+👋 Hi ! I'm **Mélodie**!<br><br> 📁 Here you can find some diversed projects I have been working on.<br>     **Transformers** are a big part of my studies, the **Computational cost** of it all as well.<br>
+<br>I am passionate on how we develop Deep Learning from Human's input to outperfom us in some use cases.<br>I believe in this amazing tool, that is IA.<br><br> ------------ If you aim at a **Substainable AI** for **Industry 5.0**, let's meet! ----------- <br><br> 🌎 I have learned IA and computer science across the world .<br>From France, to South Korea and, now Canada.<br><br> 👩‍🎓 I have a master in AI Engineering (ESME school, France).<br>I'm currently mastering Intelligent Systems for Automated Production (ETS, Canada).<br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
