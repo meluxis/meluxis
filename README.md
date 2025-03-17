@@ -1,8 +1,8 @@
-# About Me:
-Hi ! I'm **Mélodie**!<br><br>Here you can find some diversed projects I have been working on.<br>I am passionate on how we develop Deep Learning from Human's input to outperfom us in some use cases.<br>I believe in this amazing tool, that is IA.<br><br>**Transformers** are a big part of my studies, the **Computational cost** of it all as well.<br>If you aim at a **Substainable AI** for **Industry 5.0**, let's meet!<br><br>I have learned IA and computer science across the world 🌎.<br>From France, to South Korea and, now Canada.<br><br>I have a master in AI Engineering (ESME school, France).<br>I'm currently mastering Intelligent Systems for Automated Production (ETS, Canada).<br><br><br><br>
+# Welcome in my Github world !
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/meluxiss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mélodie Desbos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:desbosmelodie@gmail.com) 
+## About Me
+👋 Hi ! I'm **Mélodie**!<br><br> 📁 Here you can find some diversed projects I have been working on.<br> **Transformers** are a big part of my studies, the **Computational cost** of it all as well.<br>
+<br>I am passionate on how we develop Deep Learning from Human's input to outperfom us in some use cases.<br>I believe in this amazing tool, that is IA.<br><br> If you aim at a **Substainable AI** for **Industry 5.0**, let's meet!<br><br> 🌎 I have learned IA and computer science across the world .<br>From France, to South Korea and, now Canada.<br><br> 👩‍🎓 I have a master in AI Engineering (ESME school, France).<br>I'm currently mastering Intelligent Systems for Automated Production (ETS, Canada).<br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,5 +12,8 @@ Hi ! I'm **Mélodie**!<br><br>Here you can find some diversed projects I have be
 ![](https://github-readme-stats.vercel.app/api?username=meluxis&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=meluxis&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meluxis&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🌐 Contact me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/meluxiss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mélodie Desbos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:desbosmelodie@gmail.com) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
