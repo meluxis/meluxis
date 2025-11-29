@@ -2,9 +2,9 @@
 
 ## About Me
  Hi ! I'm **Mélodie**!<br><br>  Here you can find some diversed projects I have been working on.<br><br> 
-Researching for efficency and optimized pipelines for Generative AI and predictions. Working on multimodal subject driven generation based on diffusion (text, image, audio and video).  <br>
-<br>Passionate on how we can mitigate AI to enhance our capacities.<br>I do believe in this amazing tool.<br><br> 🌎 Studied Deep Learning applications and computer science across the world .<br>From France, to South Korea and, now Canada.<br><br> 👩‍🎓 I have a master in AI Engineering (ESME school, France).<br>Currently a Research Assistant in LIVIA for my master research at ETS, Montreal CAN.<br> <br>
-<br>  #DiffusionModels #Transformers #Optimization #Distillation #SubjectDriven #DomainAdaption #StockMarketTendancePrediction<br>
+Researching for efficent and optimized pipelines for Generative AI and Stock Market predictions. Working on multimodal subject driven generation based on diffusion (text, image, audio and video).  <br>
+<br>Passionate on how we can mitigate AI to enhance our capacities.<br>I do believe in this amazing tool.<br><br> 🌎 Studied Deep Learning applications and computer science across the world.<br>From France, to South Korea and, now Canada.<br><br> 👩‍🎓 I have a master in AI Engineering (ESME school, France).<br>Currently a Research Assistant in LIVIA for my master research at ETS, Montreal CAN.<br> <br>
+<br>  #DiffusionModels #Transformers #Optimization #Distillation #SubjectDriven #DomainAdaption #TimeSeries<br>
 
 ## Contributions
 [Google Scholar profile](https://scholar.google.com/citations?hl=fr&view_op=list_works&gmla=AKzYXQ2El-T1b0y2KdDCb7jS2v2YrIA8GcMHbjeyITRliSKCasS4lnCINLtYlka9kkjS622lYeUQywJXgdcUFWSuTfU&user=sANOdsQAAAAJ)
